@@ -1,4 +1,7 @@
 USE_CAMERA_STUB := false
+HAVE_HTC_AUDIO_DRIVER := true
+BOARD_USES_GENERIC_AUDIO := true
+BOARD_USES_GPS_TYPE := simulator
 
 # inherit from the proprietary version
 -include vendor/allwinner/a10/BoardConfigVendor.mk
