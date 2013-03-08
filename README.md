@@ -1,4 +1,4 @@
 allwinner-a10-axioo-picopad
 ===========================
 
-axioo-picopad-ggc
+Github Custom ROM axioo picopad 7 GGC BGT
